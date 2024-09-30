@@ -1,0 +1,27 @@
+Unknown cache policy. Use 'none', 'LRU', or 'LFU'.
+Unknown cache policy. Use 'none', 'LRU', or 'LFU'.
+Unknown cache policy. Use 'none', 'LRU', or 'LFU'.
+Unknown cache policy. Use 'none', 'LRU', or 'LFU'.
+Unknown cache policy. Use 'none', 'LRU', or 'LFU'.
+Unknown cache policy. Use 'none', 'LRU', or 'LFU'.
+Unknown cache policy. Use 'none', 'LRU', or 'LFU'.
+Unknown cache policy. Use 'none', 'LRU', or 'LFU'.
+Unknown cache policy. Use 'none', 'LRU', or 'LFU'.
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
+Usage: C:\Users\ASUS\desktop\OS\collatz-cached-blaisecorreia\collatz.exe N MIN MAX policy cache_size
